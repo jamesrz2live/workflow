@@ -1,5 +1,4 @@
 #!/bin/sh
-
 . ${0%/*}/utils.sh
 
 print_header "Updating Aces Client Bundle"
